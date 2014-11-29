@@ -8,7 +8,7 @@
  * @package  Http-Request-Filter
  * @author   Ahmad Hassan <me@ahalshahen.com>
  * @license  MIT License
- * @link     https://github.com/alshahen/HttpRequestFilter
+ * @link     https://github.com/alshahen/Http-Request-Filter
  * 
  */
 
