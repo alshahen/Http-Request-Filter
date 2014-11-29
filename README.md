@@ -15,7 +15,9 @@ require 'HttpRequestFilter.php';
 <?php 
 
 require 'HttpRequestFilter.php';
-
+if (isset($_POST)) {
+	var_dump($_POST);
+}
 ?>
 
 <form action="" method="POST">
